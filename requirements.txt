@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+sse-starlette
+python-multipart
+psycopg2-binary
